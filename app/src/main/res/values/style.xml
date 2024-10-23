@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTimePickerDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:timePickerDialogTheme">@style/CustomTimePickerDialogStyle</item>
+    </style>
+
+    <style name="CustomTimePickerDialogStyle" parent="android:Theme.Material.Light.Dialog">
+        <!-- Change the text color here -->
+        <item name="android:textColorPrimary">@color/themeColor</item>
+        <item name="android:textColor">@color/themeColor</item>
+        <item name="android:statusBarColor">@color/themeColor</item>
+        <item name="colorAccent">@color/white</item>
+
+    </style>
+    <style name="CustomTimePicker">
+        <!-- Change the clock circle color here -->
+        <item name="android:colorControlActivated">@color/white</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Define your custom color attributes -->
+        <item name="colorPrimary">@color/backgroundColor</item>
+        <item name="colorAccent">@color/themeColor</item>
+        <!-- <item name="fontFamily">@font/poppins_s</item>-->
+
+        <!-- Other theme attributes -->
+    </style>
+    <style name="CalendarDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorPrimary">@color/themeColor</item> <!-- Customize your primary color -->
+        <item name="colorPrimaryVariant">@color/themeColor</item> <!-- Customize your primary variant color -->
+    </style>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<!--    <shape name="App.Starting.Theme" parent="Theme.SplashScreen" shape="oval">
+        <solid color="#FFFF" />
+        <size
+            width="48dp"
+            height="48dp" />
+    </shape>-->
+
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">#FFFF</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="s">@layout/splash_screen</item>
+        <item name="postSplashScreenTheme">@style/Theme.Sample_app</item>
+    </style>
+</resources>

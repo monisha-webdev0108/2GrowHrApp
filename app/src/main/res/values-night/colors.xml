@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF212529</color>
+    <color name="light_black">#c1c1c2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#F3F3F9</color>
+    <color name="light_backgroundColor">#F8F8FB</color>
+    <color name="paraColor">#767679</color>
+    <color name="themeColor">#405189</color>
+    <color name="lightthemecolor">#95A3D4</color>
+    <color name="light_gray">#DEDFDF</color>
+    <color name="dark_theme_color">#DADFF0</color>
+    <color name="lightshade">#E5E7F4</color>
+    <color name="green">#0AB39C</color>
+    <color name="red">#F06548</color>
+    <color name="gray">#7F8183</color>
+
+    <color name="blue">#299CDB</color>
+    <color name="pink">#F672A7</color>
+    <color name="yellow">#F7B84B</color>
+    <color name="light_blue">#D5E6F5</color>
+    <color name="light_green">#D0E9EB</color>
+    <color name="light_yellow">#F6D9A1</color>
+    <color name="light_bright_green">#C1ECE6</color>
+    <color name="light_bright_blue">#CAE5F4</color>
+    <color name="light_bright_red">#FBD8D1</color>
+    <color name="light_bright_yellow">#F4EBDF</color>
+    <color name="light_bright_pink">#FBDBE8</color>
+    <color name="toolight_green">#DAF4F0</color>
+    <color name="toolight_red">#FDE8E4</color>
+    <color name="toolight_blue">#D5E6F5</color>
+    <color name="toolight_themecolor">#EFF1F9</color>
+    <color name="third_light_green">#E6F8F5</color>
+    <color name="flight_green">#CCEFEB</color>
+    <color name="stroke">#E3E5EE</color>
+    <color name="light_pink">#F3E0ED</color>
+    <color name="divider">#DFDFDF</color>
+
+
+
+</resources>

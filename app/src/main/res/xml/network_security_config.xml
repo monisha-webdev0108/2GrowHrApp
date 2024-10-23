@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">payroll.saneforce.info</domain>
+        <domain includeSubdomains="true">2growhr.saneforce.info</domain>
+        <domain includeSubdomains="true">testing.2growhr.io</domain>
+        <domain includeSubdomains="true">2growhr.info</domain>
+        <domain includeSubdomains="true">2growhr.io</domain> <!-- Add this line to allow HTTP for 2growhr.io -->
+    </domain-config>
+</network-security-config>
